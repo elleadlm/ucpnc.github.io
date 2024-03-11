@@ -319,6 +319,15 @@ header nav ul.action-menu .nav-item .nav-link {
   text-decoration: none; 
 }
 
+.column-2, .column-3, .column-4{
+  display: flex;
+  column-gap: 50px;
+  padding-top: 50px;
+  padding-bottom: 20px;
+  align-items: center;
+  justify-content: center;
+}
+
 /* ... (end of CSS) ... */
 /* ... (Russelle Julius Querimit) ... */
 /* ... (Performance Task #2 Web Development) ... */
